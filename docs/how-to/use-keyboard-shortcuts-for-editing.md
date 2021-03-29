@@ -12,7 +12,7 @@ This works best if you can see the result in the preview panel, run the `Markdow
 
 ---
 
-- [ ] `cmd+i` makes the selection italic. Select me and make me italic.
+- [ ] `cmd+i` *makes the selection italic. Select me and make me italic*.
 
 ---
 
@@ -27,7 +27,7 @@ This works best if you can see the result in the preview panel, run the `Markdow
 
 - [ ] Paste link on selected text
   1. copy the following text: https://google.com
-  2. select me and paste
+  2. select me and paste 
 
 ---
 
